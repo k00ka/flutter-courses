@@ -1,3 +1,6 @@
 [submodule "udemy"]
 	path = udemy
 	url = https://github.com/k00ka/flutter-course-updated.git
+[submodule "pete"]
+	path = pete
+	url = git@github.com:k00ka/course-pete.git
